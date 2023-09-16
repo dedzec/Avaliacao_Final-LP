@@ -9,7 +9,8 @@
     O arquivo de entrada contém um número inteiro.
     Saída
     Imprima o tempo necessário seguido da mensagem "minutos".
- * Autor: Lucas Leal Magalhães
+ * Matricula: 2023111EPDMD0014
+ * Aluno: Lucas Leal Magalhães
  * Data: 16/09/2023
  **/
 

@@ -38,9 +38,10 @@
       • “Sem ganhador”: se não houver ganhador
       • “Aniquilacao mutua”: se ocorrer Aniquilação Mútua
     Cada saída de um caso de teste deve estar em uma linha.
-* Autor: Lucas Leal Magalhães
-* Data: 16/09/2023
-**/
+ * Matricula: 2023111EPDMD0014
+ * Aluno: Lucas Leal Magalhães
+ * Data: 16/09/2023
+ **/
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 const n = lines.shift();

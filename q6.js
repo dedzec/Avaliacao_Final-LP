@@ -23,9 +23,10 @@
     Deve ser apresentado um relatório com a comitiva do Frodo, indicando em cada linha
     quantos seres de cada espécie estarão na jornada, seguindo a ordem: hobbits,
     humanos, elfos, anões e magos.
-* Autor: Lucas Leal Magalhães
-* Data: 16/09/2023
-**/
+ * Matricula: 2023111EPDMD0014
+ * Aluno: Lucas Leal Magalhães
+ * Data: 16/09/2023
+ **/
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 const number = parseInt(lines.shift());

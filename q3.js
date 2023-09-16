@@ -8,7 +8,8 @@
     Para cada valor do vetor menor ou igual a 10, escreva "A[i] = x", onde i é a
     posição do vetor e x é o valor armazenado na posição, com uma casa após o
     ponto decimal.
- * Autor: Lucas Leal Magalhães
+ * Matricula: 2023111EPDMD0014
+ * Aluno: Lucas Leal Magalhães
  * Data: 16/09/2023
  **/
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');

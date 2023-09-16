@@ -9,7 +9,8 @@
     decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
     Obs.: Cuide que a divisão entre dois inteiros em algumas linguagens como o
     C e C++ gera outro inteiro. Utilize cast :)
- * Autor: Lucas Leal Magalhães
+ * Matricula: 2023111EPDMD0014
+ * Aluno: Lucas Leal Magalhães
  * Data: 16/09/2023
  **/
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');

@@ -24,9 +24,10 @@
     pressionados.
     Saída
     Para cada caso de teste, imprima o nome da música correspondente.
-* Autor: Lucas Leal Magalhães
-* Data: 18/07/2023
-**/
+ * Matricula: 2023111EPDMD0014
+ * Aluno: Lucas Leal Magalhães
+ * Data: 16/09/2023
+ **/
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 

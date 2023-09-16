@@ -8,7 +8,8 @@
     O arquivo de entrada contém um valor inteiro.
     Saída
     Imprima a saída conforme exemplo fornecido.
- * Autor: Lucas Leal Magalhães
+ * Matricula: 2023111EPDMD0014
+ * Aluno: Lucas Leal Magalhães
  * Data: 16/09/2023
  **/
 var input = require("fs").readFileSync("/dev/stdin", "utf8");
